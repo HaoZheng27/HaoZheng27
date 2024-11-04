@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hao Zheng!
 - 👀 I’m interested in anything related to the tech field
-- 🌱 I’m currently learning Computer Science at Sunway University
+- 🌱 I’m currently in my final year learning Computer Science at Sunway University
 - 💞️ I’m looking for an internship position on January 2025
 - 📫 How to reach me: ganhaozheng@gmail.com
 - 😄 Pronouns: he/him
